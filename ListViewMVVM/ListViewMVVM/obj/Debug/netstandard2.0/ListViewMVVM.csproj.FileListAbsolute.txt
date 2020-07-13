@@ -1,0 +1,12 @@
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\bin\Debug\netstandard2.0\ListViewMVVM.deps.json
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\bin\Debug\netstandard2.0\ListViewMVVM.dll
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\bin\Debug\netstandard2.0\ListViewMVVM.pdb
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\ListViewMVVM.csprojAssemblyReference.cache
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\ListViewMVVM.AssemblyInfoInputs.cache
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\ListViewMVVM.AssemblyInfo.cs
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\ListViewMVVM.dll
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\ListViewMVVM.pdb
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\ListViewMVVM.csproj.CoreCompileInputs.cache
+C:\Users\CodeValue\Desktop\Sample\ListViewMVVM\ListViewMVVM\obj\Debug\netstandard2.0\XamlC.stamp

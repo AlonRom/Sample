@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "W8gsIarnV0QK7z4y0IZi9Op98YTppOZRGfVrBGOUnN1iRhRaYdgxG6vjdojjFHAGAcLDDeuWsXkXYmzD/OGZSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CodeValue\\Desktop\\Sample\\ListViewMVVM\\ListViewMVVM\\ListViewMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CodeValue\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\sharpnado.shadows\\1.1.0\\sharpnado.shadows.1.1.0.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\syncfusion.licensing\\17.2.0.34\\syncfusion.licensing.17.2.0.34.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\syncfusion.xamarin.core\\17.2.0.34\\syncfusion.xamarin.core.17.2.0.34.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\syncfusion.xamarin.datasource\\17.2.0.34\\syncfusion.xamarin.datasource.17.2.0.34.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\syncfusion.xamarin.gridcommon\\17.2.0.34\\syncfusion.xamarin.gridcommon.17.2.0.34.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\syncfusion.xamarin.sflistview\\17.2.0.34\\syncfusion.xamarin.sflistview.17.2.0.34.nupkg.sha512",
+    "C:\\Users\\CodeValue\\.nuget\\packages\\xamarin.forms\\4.1.0.581479\\xamarin.forms.4.1.0.581479.nupkg.sha512"
+  ],
+  "logs": []
+}
